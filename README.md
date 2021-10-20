@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amargosavi68
+- 👋 Hi, I’m Amar Gosavi
 - 👀 I’m interested in *Web Developement*
 - 🌱 I’m currently learning *ReactJs*
 - 💞️ I’m looking to collaborate on ...
